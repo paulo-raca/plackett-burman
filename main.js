@@ -1,5 +1,6 @@
 var PB = require("./placket-burman.js");
 var fs = require("fs");
+var XLSX = require('xlsx');
 
 function print_validation(pb) {
     line = "PB" + pb.length + ": ";
@@ -30,6 +31,42 @@ function to_csv(pb) {
         contents+="\n";
     }
     return contents;
+};
+
+function to_xlsx(pbs) {
+    /* set up workbook objects -- some of these will not be required in the future */
+    var workbook = {}
+    workbook.Sheets = {};
+    workbook.Props = {};
+    workbook.SSF = {};
+    workbook.SheetNames = [];
+
+    for (var x=0; x<pbs.length; x++) {
+        var pb = pbs[x];
+        var worksheet = {};
+        var worksheet_name = "PB " + pb.length;
+
+        /* Iterate through each element in the structure */
+        for(var i=0; i<pb.length; i++) {
+            for(var j=0; j<pb[i].length; j++) {
+                var cell = {
+                    v: pb[i][j],
+                    t: 'n'
+                };
+                var cell_ref = XLSX.utils.encode_cell({ r:i, c:j });
+                worksheet[cell_ref] = cell;
+            }
+        }
+        var range = {s: {c:0, r:0}, e: {c:pb[0].length, r:pb.length }};
+        worksheet['!ref'] = XLSX.utils.encode_range(range);
+
+        /* add worksheet to workbook */
+        workbook.SheetNames.push(worksheet_name);
+        workbook.Sheets[worksheet_name] = worksheet;
+    }
+
+    /* write file */
+    return XLSX.write(workbook,  { bookType:'xlsx', bookSST:false, type:'buffer' });
 };
 
 function to_markdown(pb) {
@@ -79,24 +116,31 @@ function writeFile(description, filename, contents) {
     });
 };
 
+
+
 function main() {
+    var all_tables = [];
     var all_markdown = [];
 
     for (var i=8; i<=100; i+=4) {
         if (PB.tables[i]) {
-            print_validation(PB.tables[i]);
+            var markdown = to_markdown(PB.tables[i]);
+            all_markdown.push(markdown);
+            all_tables.push(PB.tables[i]);
 
             writeFile("PB-"+i, "tables/placket-burman-" + i + ".csv", to_csv(PB.tables[i]));
             writeFile("PB-"+i, "tables/placket-burman-" + i + ".json", to_json(PB.tables[i]));
-
-            var markdown = to_markdown(PB.tables[i]);
-            all_markdown.push(markdown);
+            writeFile("PB-"+i, "tables/placket-burman-" + i + ".xlsx", to_xlsx([PB.tables[i]]));
             writeFile("PB-"+i, "tables/placket-burman-" + i + ".md", markdown);
+
+            console.log("- [PB-" + i + "](tables/placket-burman-"+i+".md): [XLSX](tables/placket-burman-"+i+".xlsx) / [JSON](tables/placket-burman-"+i+".json) / [CSV](tables/placket-burman-"+i+".csv)");
         }
     }
+    console.log("- [All tables](tables/placket-burman-all.md): [XLSX](tables/placket-burman-all.xlsx) / [JSON](tables/placket-burman-all.json)");
 
     writeFile("all tables", "tables/placket-burman-all.json", to_json(PB.tables));
     writeFile("all tables", "tables/placket-burman-all.md", all_markdown.join("\n\n"));
+    writeFile("all tables", "tables/placket-burman-all.xlsx", to_xlsx(all_tables));
 }
 
 if (require.main === module) {
