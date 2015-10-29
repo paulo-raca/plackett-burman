@@ -1,26 +1,28 @@
 ## Placket-Burman 24
 
-|  1 | -1 | -1 | -1 | -1 |  1 | -1 |  1 | -1 | -1 |  1 |  1 | -1 | -1 |  1 |  1 | -1 |  1 | -1 |  1 |  1 |  1 |  1 |
-|  1 |  1 | -1 | -1 | -1 | -1 |  1 | -1 |  1 | -1 | -1 |  1 |  1 | -1 | -1 |  1 |  1 | -1 |  1 | -1 |  1 |  1 |  1 |
-|  1 |  1 |  1 | -1 | -1 | -1 | -1 |  1 | -1 |  1 | -1 | -1 |  1 |  1 | -1 | -1 |  1 |  1 | -1 |  1 | -1 |  1 |  1 |
-|  1 |  1 |  1 |  1 | -1 | -1 | -1 | -1 |  1 | -1 |  1 | -1 | -1 |  1 |  1 | -1 | -1 |  1 |  1 | -1 |  1 | -1 |  1 |
-|  1 |  1 |  1 |  1 |  1 | -1 | -1 | -1 | -1 |  1 | -1 |  1 | -1 | -1 |  1 |  1 | -1 | -1 |  1 |  1 | -1 |  1 | -1 |
-| -1 |  1 |  1 |  1 |  1 |  1 | -1 | -1 | -1 | -1 |  1 | -1 |  1 | -1 | -1 |  1 |  1 | -1 | -1 |  1 |  1 | -1 |  1 |
-|  1 | -1 |  1 |  1 |  1 |  1 |  1 | -1 | -1 | -1 | -1 |  1 | -1 |  1 | -1 | -1 |  1 |  1 | -1 | -1 |  1 |  1 | -1 |
-| -1 |  1 | -1 |  1 |  1 |  1 |  1 |  1 | -1 | -1 | -1 | -1 |  1 | -1 |  1 | -1 | -1 |  1 |  1 | -1 | -1 |  1 |  1 |
-|  1 | -1 |  1 | -1 |  1 |  1 |  1 |  1 |  1 | -1 | -1 | -1 | -1 |  1 | -1 |  1 | -1 | -1 |  1 |  1 | -1 | -1 |  1 |
-|  1 |  1 | -1 |  1 | -1 |  1 |  1 |  1 |  1 |  1 | -1 | -1 | -1 | -1 |  1 | -1 |  1 | -1 | -1 |  1 |  1 | -1 | -1 |
-| -1 |  1 |  1 | -1 |  1 | -1 |  1 |  1 |  1 |  1 |  1 | -1 | -1 | -1 | -1 |  1 | -1 |  1 | -1 | -1 |  1 |  1 | -1 |
-| -1 | -1 |  1 |  1 | -1 |  1 | -1 |  1 |  1 |  1 |  1 |  1 | -1 | -1 | -1 | -1 |  1 | -1 |  1 | -1 | -1 |  1 |  1 |
-|  1 | -1 | -1 |  1 |  1 | -1 |  1 | -1 |  1 |  1 |  1 |  1 |  1 | -1 | -1 | -1 | -1 |  1 | -1 |  1 | -1 | -1 |  1 |
-|  1 |  1 | -1 | -1 |  1 |  1 | -1 |  1 | -1 |  1 |  1 |  1 |  1 |  1 | -1 | -1 | -1 | -1 |  1 | -1 |  1 | -1 | -1 |
-| -1 |  1 |  1 | -1 | -1 |  1 |  1 | -1 |  1 | -1 |  1 |  1 |  1 |  1 |  1 | -1 | -1 | -1 | -1 |  1 | -1 |  1 | -1 |
-| -1 | -1 |  1 |  1 | -1 | -1 |  1 |  1 | -1 |  1 | -1 |  1 |  1 |  1 |  1 |  1 | -1 | -1 | -1 | -1 |  1 | -1 |  1 |
-|  1 | -1 | -1 |  1 |  1 | -1 | -1 |  1 |  1 | -1 |  1 | -1 |  1 |  1 |  1 |  1 |  1 | -1 | -1 | -1 | -1 |  1 | -1 |
-| -1 |  1 | -1 | -1 |  1 |  1 | -1 | -1 |  1 |  1 | -1 |  1 | -1 |  1 |  1 |  1 |  1 |  1 | -1 | -1 | -1 | -1 |  1 |
-|  1 | -1 |  1 | -1 | -1 |  1 |  1 | -1 | -1 |  1 |  1 | -1 |  1 | -1 |  1 |  1 |  1 |  1 |  1 | -1 | -1 | -1 | -1 |
-| -1 |  1 | -1 |  1 | -1 | -1 |  1 |  1 | -1 | -1 |  1 |  1 | -1 |  1 | -1 |  1 |  1 |  1 |  1 |  1 | -1 | -1 | -1 |
-| -1 | -1 |  1 | -1 |  1 | -1 | -1 |  1 |  1 | -1 | -1 |  1 |  1 | -1 |  1 | -1 |  1 |  1 |  1 |  1 |  1 | -1 | -1 |
-| -1 | -1 | -1 |  1 | -1 |  1 | -1 | -1 |  1 |  1 | -1 | -1 |  1 |  1 | -1 |  1 | -1 |  1 |  1 |  1 |  1 |  1 | -1 |
-| -1 | -1 | -1 | -1 |  1 | -1 |  1 | -1 | -1 |  1 |  1 | -1 | -1 |  1 |  1 | -1 |  1 | -1 |  1 |  1 |  1 |  1 |  1 |
-| -1 | -1 | -1 | -1 | -1 | -1 | -1 | -1 | -1 | -1 | -1 | -1 | -1 | -1 | -1 | -1 | -1 | -1 | -1 | -1 | -1 | -1 | -1 |
+<table>
+  <tr><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td></tr>
+  <tr><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td></tr>
+  <tr><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td></tr>
+  <tr><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td></tr>
+  <tr><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td></tr>
+  <tr><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td></tr>
+  <tr><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td></tr>
+  <tr><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td></tr>
+  <tr><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td></tr>
+  <tr><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td></tr>
+  <tr><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td></tr>
+  <tr><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td></tr>
+  <tr><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td></tr>
+  <tr><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td></tr>
+  <tr><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td></tr>
+  <tr><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td></tr>
+  <tr><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td></tr>
+  <tr><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td></tr>
+  <tr><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td></tr>
+  <tr><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td>-1</td></tr>
+  <tr><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td></tr>
+  <tr><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td>-1</td></tr>
+  <tr><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td>-1</td><td> 1</td><td> 1</td><td>-1</td><td> 1</td><td>-1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td><td> 1</td></tr>
+  <tr><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td><td>-1</td></tr>
+</table>

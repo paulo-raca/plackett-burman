@@ -34,6 +34,8 @@ function to_csv(pb) {
 
 function to_markdown(pb) {
     contents = "## Placket-Burman " + pb.length + "\n\n";
+
+    /* github doesn't like tables without headers... Use HTML instead
     for (var i=0; i<pb.length; i++) {
         for (var j=0; j<pb[i].length; j++) {
             contents+="| ";
@@ -41,7 +43,19 @@ function to_markdown(pb) {
             contents+=" ";
         }
         contents+="|\n";
+    }*/
+
+    contents+="<table>\n";
+    for (var i=0; i<pb.length; i++) {
+        contents+="  <tr>";
+        for (var j=0; j<pb[i].length; j++) {
+            contents+="<td>";
+            contents+=pb[i][j] > 0 ? " 1" : "-1";
+            contents+="</td>";
+        }
+        contents+="</tr>\n";
     }
+    contents+="</table>\n";
     return contents;
 };
 
