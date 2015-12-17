@@ -1,8 +1,8 @@
-# Placket-Burman Designs
+# Plackett-Burman Designs
 
-[Placket-Burman Designs](Plackett-Burman-1946.pdf) are used by lots of people, particularly with L=2, but finding the larger  tables (>50 rows) has proven more difficult than it should.
+[Plackett-Burman Designs](Plackett-Burman-1946.pdf) are used by lots of people, particularly with L=2, but finding the larger  tables (>50 rows) has proven more difficult than it should.
 
-Anyone can get the tables from the original paper, but a bit annoying, since it involves:
+Anyone can get the tables from the original paper, but the procedure is a bit annoying, since it involves:
 - Transcribing lots of plus-minus-minus-minus-plus-plus-minus-... to a spreadsheet
 - Running the tables through a "descompression", since the space on the original paper was not enough to provide complete 100x100 tables ;)
 
