@@ -6,7 +6,10 @@ Anyone can get the tables from the original paper, but the procedure is a bit an
 - Transcribing lots of plus-minus-minus-minus-plus-plus-minus-... to a spreadsheet
 - Running the tables through a "descompression" step, since the space on the original paper was not enough to provide complete 100x100 tables ;)
 
-Someone had to do it:
+Someone had to do it!
+
+Here they are, avaiable in a bunch of different formats:
+
 - [PB-8](tables/placket-burman-8.md): [XLSX](tables/placket-burman-8.xlsx) / [JSON](tables/placket-burman-8.json) / [CSV](tables/placket-burman-8.csv)
 - [PB-12](tables/placket-burman-12.md): [XLSX](tables/placket-burman-12.xlsx) / [JSON](tables/placket-burman-12.json) / [CSV](tables/placket-burman-12.csv)
 - [PB-16](tables/placket-burman-16.md): [XLSX](tables/placket-burman-16.xlsx) / [JSON](tables/placket-burman-16.json) / [CSV](tables/placket-burman-16.csv)
